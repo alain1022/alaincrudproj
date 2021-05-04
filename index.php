@@ -12,11 +12,11 @@
 <div class="wrapper">
   	<form class="comment_form">
       <div>
-        <label for="name">Name:</label>
+        <label for="name">Name: </label>
       	<input type="text" name="name" id="name">
       </div>
       <div>
-      	<label for="comment">Comment:</label>
+      	<label for="comment">Comment: </label>
       	<textarea name="comment" id="comment" cols="30" rows="5"></textarea>
       </div>
       <button type="button" id="submit_btn">POST</button>
